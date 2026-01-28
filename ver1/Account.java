@@ -1,6 +1,7 @@
 package ver1;
 
 public class Account {
+	// New Comment for Balance
 	// Instance variable, only available inside this class.
 	private double balance;
 	// Constructor
@@ -41,3 +42,4 @@ public class Account {
 		System.out.println(a1);
 	}
 }
+
